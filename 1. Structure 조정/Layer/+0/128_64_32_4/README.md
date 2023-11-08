@@ -13,6 +13,8 @@ DECODER_3 = 128 </br>
 
 > basic model에서 63->64, 12->32, Latent_vector 3->4 </br>
 
+<img src="https://github.com/park-sangeun/Advanced-ANN/assets/90459890/8c3b83ca-10e8-47c9-a77b-36a4f1196080" width = "400">
+
 ### [Hyper parameter]
 BATCH_SIZE = 64 </br>
 EPOCHS = 100 </br>
