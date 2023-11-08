@@ -21,6 +21,6 @@ LEARNING_RATE = 0.005 </br>
 > basic model과 동일한 파라미터로 진행, epochs만 50->100 </br>
   
 ### [Test Error]
-<b> 0.020774 </b>
+<b> 0.019304  </b>
 
-![Basic structure](https://github.com/park-sangeun/Advanced-ANN/assets/90459890/cfd1da68-85ba-4665-90aa-9a71384329fa)
+![1 Layer3_128_64_32_4](https://github.com/park-sangeun/Advanced-ANN/assets/90459890/749f548b-95c3-404b-b4d6-c27550172699)
