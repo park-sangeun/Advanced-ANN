@@ -34,9 +34,44 @@ BATCH_SIZE = 64 </br>
 EPOCHS = 100 </br>
 LEARNING_RATE = 5e-4 </br>
 
-> basic model에서 LR 5e-3->5e-4로 변경 </br>
+> 1에서 LR을 5e-3 -> 5e-4로 줄임 </br>
   
 ### [Test Error] 2
+<b> 0.018233 </b>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/06bdb37f-7924-4e5d-8d83-d61a2b026fe5" width = "600">
+
+---
+
+### [Hyper parameter] 3
+BATCH_SIZE = 64 </br>
+EPOCHS = 100 </br>
+LEARNING_RATE = 1e-4 </br>
+
+> 1에서 LR을 5e-3 -> 1e-4로 줄임 </br>
+  
+### [Test Error] 3
+<b> 0.018233 </b>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/10dbe225-ef88-4b5f-9609-064a6ca38c80" width = "600">
+
+---
+
+### [Hyper parameter] 4
+BATCH_SIZE = 128 </br>
+EPOCHS = 100 </br>
+LEARNING_RATE = 1e-3 </br>
+
+> 1에서 BATCH를 64->128로 증가함에 따라 LR을 5e-3 -> 1e-3로 사용 </br>
+  
+### [Test Error] 4
 <b>  </b>
 
 <img src = "" width = "600">
+
+---
+
+Result
+---
+batch_size = 64인 경우 
+batch_size = 128인 경우 
