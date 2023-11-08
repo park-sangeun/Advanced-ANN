@@ -51,9 +51,9 @@ LEARNING_RATE = 1e-4 </br>
 > 1에서 LR을 5e-3 -> 1e-4로 줄임 </br>
   
 ### [Test Error] 3
-<b>  </b>
+<b> 0.019113 </b>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/f24a6b32-62f8-4d29-8de7-4ddd992d69ec" width = "600">
 
 ---
 
@@ -65,13 +65,13 @@ LEARNING_RATE = 1e-3 </br>
 > 1에서 BATCH를 64->128로 증가함에 따라 LR을 5e-3 -> 1e-3로 사용 </br>
   
 ### [Test Error] 4
-<b>  </b>
+<b> 0.018119 </b>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/c5c3a96f-40f4-433d-862d-c71886428b27" width = "600">
 
 ---
 
 Result
 ---
-batch_size = 64인 경우 
-batch_size = 128인 경우 
+batch_size = 64인 경우 LR은 5e-4가 최적
+batch_size = 128인 경우 1e-3이 최적
