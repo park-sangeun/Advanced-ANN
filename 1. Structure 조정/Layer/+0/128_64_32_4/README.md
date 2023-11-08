@@ -53,7 +53,7 @@ LEARNING_RATE = 5e-4 </br>
 ### [Test Error] 3
 <b> 0.020138 </b>
 
-<img src="https://github.com/park-sangeun/Advanced-ANN/assets/90459890/7d2a5211-a31e-4819-bef4-daca72bbcc26" width = "600">
+<img src="https://github.com/park-sangeun/Advanced-ANN/assets/90459890/4feb43dc-e38b-4824-8826-79997fdf83d7" width = "600">
 
 ---
 
