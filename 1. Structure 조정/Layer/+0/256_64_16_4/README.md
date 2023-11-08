@@ -51,9 +51,9 @@ LEARNING_RATE = 1e-4 </br>
 > 1에서 LR을 5e-3 -> 1e-4로 줄임 </br>
   
 ### [Test Error] 3
-<b> 0.018233 </b>
+<b>  </b>
 
-<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/10dbe225-ef88-4b5f-9609-064a6ca38c80" width = "600">
+<img src = "" width = "600">
 
 ---
 
