@@ -11,6 +11,8 @@ DECODER_1 = 12 </br>
 DECODER_2 = 64 </br>
 DECODER_3 = 128 </br>
 
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/ff6cb849-e632-4e82-8d00-d276cefc9948" width = "400">
+
 ### [Hyper parameter]
 BATCH_SIZE = 64 </br>
 EPOCHS = 50 </br>
