@@ -38,7 +38,7 @@ test error: 0.018578 </br>
 Result 2
 ---
 * Layer: 128 - 64 - 32 - 4 - 32 - 64 - 128 </br>
-test error:  </br>
+test error: 0.018763 </br>
 
 * Layer: 256 - 128 - 32 - 4 - 32 - 128 - 256 </br>
 test error:  </br>
@@ -62,13 +62,13 @@ test error: 0.017443 </br>
 Result 3
 ---
 * Layer: 128 - 64 - 32 - 4 - 32 - 64 - 128 </br>
-test error:  </br>
+test error: 0.020138 </br>
 
 * Layer: 256 - 128 - 32 - 4 - 32 - 128 - 256 </br>
 test error:  </br>
 
 * Layer: 256 - 64 - 16 - 4 - 16 - 64 - 256 </br>
-test error:  </br>
+test error: 0.019113 </br>
 
 * Layer: 512 - 256 - 32 - 4 - 32 - 256 - 512 </br>
 test error: 0.018671 </br>
