@@ -13,7 +13,7 @@ DECODER_4 = 512 </br>
 
 > basic model에서 512, 256, 128, 32, Latent_vector 3->8 </br>
 
-<img src="https://github.com/park-sangeun/Advanced-ANN/assets/90459890/bb3d8777-6564-4883-bdc5-cc3b1eeb2ae7" width = "400">
+<img src="https://github.com/park-sangeun/Advanced-ANN/assets/90459890/cf8f177b-9d8e-420d-9aae-294b78fa1e9b" width = "400">
 
 ### [Hyper parameter] 1
 BATCH_SIZE = 64 </br>
@@ -23,9 +23,9 @@ LEARNING_RATE = 5e-4 </br>
 > batch_size 64, epochs만 50->100 </br>
   
 ### [Test Error] 1
-<b> 0.013096 </b>
+<b> 0.012941 </b>
 
-<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/ea8c5150-5e8a-4fa2-83d3-5b983c1ecbf6" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/8715fde2-549c-448d-8203-a0d127864af3" width = "600">
 
 ---
 
