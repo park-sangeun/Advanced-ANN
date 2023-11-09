@@ -29,8 +29,31 @@ LEARNING_RATE = 5e-4 </br>
 
 ---
 
+### [Hyper parameter] 2
+BATCH_SIZE = 32 </br>
+EPOCHS = 100 </br>
+LEARNING_RATE = 5e-4 </br>
+
+> batch_size 32, epochs만 50->100 </br>
+  
+### [Test Error] 2
+<b> 0.016927 </b>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/6551846e-dc76-417e-b559-fbef43d0a258" width = "600">
 
 ---
+
+### [Hyper parameter] 3
+BATCH_SIZE = 32 </br>
+EPOCHS = 100 </br>
+LEARNING_RATE = 5e-4 </br>
+
+> batch_size 32, epochs만 50->100 </br>
+  
+### [Test Error] 3
+<b>  </b>
+
+<img src = "" width = "600">
 
 Result
 ---
