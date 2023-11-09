@@ -29,6 +29,20 @@ LEARNING_RATE = 5e-4 </br>
 
 ---
 
+### [Hyper parameter] 2
+BATCH_SIZE = 32 </br>
+EPOCHS = 100 </br>
+LEARNING_RATE = 5e-4 </br>
+
+> 1에서 batch_size 64->32, epochs만 50->300 </br>
+  
+### [Test Error] 1
+<b> 0.017439 </b>
+
+<img src = "https://github.com/park-sangeun/Back-end-Practice/assets/90459890/6b160e39-423b-4d11-9218-eb0936e9d046" width = "600">
+
+---
+
 Result
 ---
 batch_size = 64인 경우 LR은 가 최적 </br>
