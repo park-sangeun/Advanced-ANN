@@ -3,11 +3,11 @@
 ### [Structure]
 ENCODER_1 = 512 </br>
 ENCODER_2 = 256 </br>
-ENCODER_3 = 64 </br>
+ENCODER_3 = 128 </br>
 ENCODER_4 = 32 </br>
 LATENT_VECTOR = 4 </br>
 DECODER_1 = 32 </br>
-DECODER_2 = 64 </br>
+DECODER_2 = 128 </br>
 DECODER_3 = 256 </br>
 DECODER_4 = 512 </br>
 
@@ -23,9 +23,9 @@ LEARNING_RATE = 5e-4 </br>
 > batch_size 64, epochs만 50->100 </br>
   
 ### [Test Error] 1
-<b>  </b>
+<b> 0.017123 </b>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/258fff2c-2ace-439a-9220-8557cb0f1fb5" width = "600">
 
 ---
 
