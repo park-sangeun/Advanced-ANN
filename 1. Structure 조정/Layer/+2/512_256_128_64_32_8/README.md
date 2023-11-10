@@ -23,11 +23,21 @@ EPOCHS = 100 </br>
 LEARNING_RATE = 5e-4 </br>
 
 > batch_size 64, epochs만 50->100 </br>
-  
+
 ### [Test Error] 1
 <b> 0.013886 </b>
 
 <img src = "https://github.com/park-sangeun/Back-end-Practice/assets/90459890/a55c3cc6-83f9-485f-a8e6-98d4b439b12a" width = "600">
+
+### [Hyper parameter] 1-2
+BATCH_SIZE = 64 </br>
+EPOCHS = 200 </br>
+LEARNING_RATE = 5e-4 </br>
+
+### [Test Error] 1-2
+<b>  </b>
+
+<img src = "" width = "600">
 
 ---
 
