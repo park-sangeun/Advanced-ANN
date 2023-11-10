@@ -29,6 +29,20 @@ LEARNING_RATE = 5e-4 </br>
 
 ---
 
+### [Hyper parameter] 2
+BATCH_SIZE = 32 </br>
+EPOCHS = 100 </br>
+LEARNING_RATE = 5e-4 </br>
+
+> batch_size 64, epochs만 50->100 </br>
+  
+### [Test Error] 2
+<b> 0.012593 </b>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/da646616-2183-496d-bb1b-f4097cf33a3c" width = "600">
+
+---
+
 Result
 ---
 Latent_vector가 4일 때보다 8인 경우 test error가 확연하게 줄었다.
