@@ -44,18 +44,17 @@ LEARNING_RATE = 5e-4 </br>
 ---
 
 ### [Hyper parameter] 3
-BATCH_SIZE = 32 </br>
+BATCH_SIZE = 64 </br>
 EPOCHS = 100 </br>
-LEARNING_RATE = 5e-4 </br>
+LEARNING_RATE = 1e-3 </br>
 
-> batch_size 32, epochs만 50->100 </br>
+> batch_size 64, LR 1e-3, epochs만 50->100 </br>
   
 ### [Test Error] 3
-<b>  </b>
+<b> 0.017015 </b>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/d459bf54-e578-4cd3-87c3-5f3d6c695ed2" width = "600">
 
 Result
 ---
-batch_size = 64인 경우 LR은 가 최적 </br>
-batch_size = 128인 경우 LR은 이 최적 </br>
+batch_size = 32인 경우 LR = 5e-4가 최적
