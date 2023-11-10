@@ -61,5 +61,4 @@ LEARNING_RATE = 5e-4 </br>
 
 Result
 ---
-batch_size = 64인 경우 LR은 가 최적 </br>
-batch_size = 128인 경우 LR은 이 최적 </br>
+batch_size = 64인 경우 LR은 5e-4가 최적 </br>
