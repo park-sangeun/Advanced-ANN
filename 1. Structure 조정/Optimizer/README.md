@@ -17,14 +17,24 @@ DECODER_5 = 512 </br>
 
 <img src="https://github.com/park-sangeun/Back-end-Practice/assets/90459890/c55e54be-dc3d-47d5-a612-691ff69c0d56" width = "400">
 
-### [Hyper parameter]
+### [Optimizer] 1 RMSprop
+
+### [Hyper parameter] 1
 BATCH_SIZE = 64 </br>
 EPOCHS = 100 </br>
 LEARNING_RATE = 5e-4 </br>
-
-### [Optimizer] 1 RMSprop
 
 ### [Test Error] 1
 test error: 0.017195 </br>
 
 <img src = "https://github.com/park-sangeun/Back-end-Practice/assets/90459890/10b96d89-07af-41d7-bf85-a96866776d78" width = "600">
+
+### [Hyper parameter] 2
+BATCH_SIZE = 32 </br>
+EPOCHS = 200 </br>
+LEARNING_RATE = 5e-4 </br>
+
+### [Test Error] 2
+test error: 0.017217 </br>
+
+<img src = "https://github.com/park-sangeun/Park-sangeun/assets/90459890/6c9b2a0c-3469-46f1-a6a1-eed125e12e3e" width = "600">
