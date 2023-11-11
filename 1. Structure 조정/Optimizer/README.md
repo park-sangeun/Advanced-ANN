@@ -1,5 +1,7 @@
 ## Structure 조정_Optimizer 변경
 
+### [Optimizer] 1 RMSprop
+
 ### [Structure]
 ENCODER_1 = 512 </br>
 ENCODER_2 = 256 </br>
@@ -16,8 +18,6 @@ DECODER_5 = 512 </br>
 > basic model에서 512, 256, 128, 64, 16, Latent_vector 3->4 </br>
 
 <img src="https://github.com/park-sangeun/Back-end-Practice/assets/90459890/c55e54be-dc3d-47d5-a612-691ff69c0d56" width = "400">
-
-### [Optimizer] 1 RMSprop
 
 ### [Hyper parameter] 1
 BATCH_SIZE = 64 </br>
