@@ -35,9 +35,9 @@ EPOCHS = 200 </br>
 LEARNING_RATE = 5e-4 </br>
 
 ### [Test Error] 1-2
-<b>  </b>
+<b> 0.013400 </b>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Park-sangeun/assets/90459890/66e69783-e2b0-441b-8056-d73838df782e" width = "600">
 
 ---
 
