@@ -53,7 +53,7 @@ LEARNING_RATE = 5e-4 </br>
 
 ### [Hyper parameter] 1
 Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
-Encoder, Decoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
+Encoder, Decoder 각 층마다 nn.Dropout(p=0.2) 추가 </br>
 
 ### [Test Error] 1
 test error:  </br>
@@ -62,9 +62,18 @@ test error:  </br>
 
 ### [Hyper parameter] 2
 Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
-Encoder, Decoder 각 층마다 nn.Dropout(p=0.5) 추가 </br>
+Encoder, Decoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
 
 ### [Test Error] 2
+test error: 0.011387 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/56a43bd4-228e-486b-b038-cc530539a919" width = "600">
+
+### [Hyper parameter] 3
+Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
+Encoder, Decoder 각 층마다 nn.Dropout(p=0.5) 추가 </br>
+
+### [Test Error] 3
 test error: 0.011570 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/9440b7cc-2f36-41ed-926e-aff4b738dcc0" width = "600">
