@@ -1,0 +1,27 @@
+## Hyper parameter 조정
+>고정 Layer는 512 - 256 - 128 - 64 - 32 - 16 이다.
+
+### [기본 model Test Error] Adam
+BATCH_SIZE = 64 </br>
+EPOCHS = 200 </br>
+LEARNING_RATE = 5e-4 </br>
+>Epochs 300 x 200 o 임을 감안해야 한다.
+
+<b> 0.012647 </b>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/d1c6ec53-bc92-447a-86bd-3a3e8b76154a" width = "600">
+
+---
+
+### [Hyper parameter] 1 RMSprop
+
+BATCH_SIZE = 32 </br>
+EPOCHS = 200 </br>
+LEARNING_RATE = 5e-4 </br>
+
+### [Test Error] 
+test error: 0.013746 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/91892c8e-a9bf-4be7-846c-881baf3b6e8a" width="600">
+
+---
