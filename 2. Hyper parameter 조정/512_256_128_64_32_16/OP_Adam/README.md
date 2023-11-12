@@ -56,9 +56,9 @@ Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
 Encoder, Decoder 각 층마다 nn.Dropout(p=0.2) 추가 </br>
 
 ### [Test Error] 1
-test error:  </br>
+test error: 0.011261  </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/116bdb71-0323-4645-bc8f-d1603f2aa555" width = "600">
 
 ### [Hyper parameter] 2
 Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
