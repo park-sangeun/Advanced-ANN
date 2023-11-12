@@ -13,7 +13,7 @@ LEARNING_RATE = 5e-4 </br>
 
 ---
 
-### [Hyper parameter] 1 RMSprop
+### [Hyper parameter] RMSprop
 
 BATCH_SIZE = 32 </br>
 EPOCHS = 200 </br>
@@ -25,3 +25,13 @@ test error: 0.013746 </br>
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/91892c8e-a9bf-4be7-846c-881baf3b6e8a" width="600">
 
 ---
+
+### [Hyper parameter] 1
+Encoder, Decoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/9b7b5bf5-5fee-4241-b838-c1bf7673b18d" width = "400">
+
+### [Test Error] 1
+test error: 0.013832 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/c47ab1ff-48b9-4117-bc54-d11444c387ec" width = "600">
