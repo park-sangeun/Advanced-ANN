@@ -1,8 +1,8 @@
 ## Structure 조정_Optimizer 변경
 
-### [Optimizer] 1 RMSprop
+### [Optimizer] RMSprop
 
-### [Structure]
+### [Structure] 1
 ENCODER_1 = 512 </br>
 ENCODER_2 = 256 </br>
 ENCODER_3 = 128 </br>
@@ -65,3 +65,28 @@ LEARNING_RATE = 5e-4 </br>
 test error: 0.013900 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/fbab7260-3ea3-488b-b862-dbc86f3c6b42" width="600">
+
+---
+
+### [Structure] 3
+ENCODER_1 = 512 </br>
+ENCODER_2 = 256 </br>
+ENCODER_3 = 128 </br>
+ENCODER_4 = 64 </br>
+ENCODER_5 = 32 </br>
+LATENT_VECTOR = 16 </br>
+DECODER_1 = 16 </br>
+DECODER_2 = 64 </br>
+DECODER_3 = 128 </br>
+DECODER_4 = 256 </br>
+DECODER_5 = 512 </br>
+
+### [Hyper parameter] 
+BATCH_SIZE = 32 </br>
+EPOCHS = 200 </br>
+LEARNING_RATE = 5e-4 </br>
+
+### [Test Error] 
+test error: 0.013746 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/91892c8e-a9bf-4be7-846c-881baf3b6e8a" width="600">
