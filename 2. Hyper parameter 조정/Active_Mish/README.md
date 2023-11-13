@@ -43,3 +43,47 @@ Encoder, Decoder 각 층마다 nn.Dropout(p=0.5) 추가 </br>
 test error: 0.009678  </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/ce0e1e27-e31d-440e-aad9-181f895fc043" width = "600">
+
+---
+
+### [Activation function] Mish 2
+>고정 Layer는 512 - 256 - 64 - 16 이다.
+
+### [Hyper parameter] 1
+Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
+Encoder, Decoder 각 층마다 nn.Dropout(p=0.2) 추가 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/e3fc8648-69ce-413f-a761-ef07677744c2" width = "600">
+
+### [Test Error] 1
+test error: 0.009457 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/915c2978-1768-4388-a5a2-832122bf0782" width = "600">
+
+---
+
+### [Hyper parameter] 2
+Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
+Encoder, Decoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/7f41a1c7-3b77-42d8-8870-e2e2d370e387" width = "600">
+
+### [Test Error] 2
+test error: 0.009471 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/45a021ce-2493-41e0-bce0-f5e103f9e1e8" width = "600">
+
+---
+
+### [Hyper parameter] 3
+Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
+Encoder, Decoder 각 층마다 nn.Dropout(p=0.5) 추가 </br>
+
+<img src = "" width = "600">
+
+### [Test Error] 3
+test error: 0.009312 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/96e52e98-16a0-49a1-9ae4-3c18a3c7faca" width = "600">
+
+---
