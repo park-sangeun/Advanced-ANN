@@ -17,9 +17,9 @@ Encoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/59d6ab93-2261-4822-9231-f39075e2f942" width="400">
 
 ### [Test Error] 1
-test error:  </br>
+test error: 0.009404 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/7c8689f6-50e8-4001-93f9-7c4e0346388d" width = "600">
 
 ---
 
@@ -28,12 +28,12 @@ test error:  </br>
 
 ### [Hyper parameter] 1
 
-<img src = "" width="400">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/4602fbc1-2f2a-4958-ac6d-40cd9b840078" width="400">
 
 ### [Test Error] 1
-test error:  </br>
+test error: 0.012383 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/89b5c497-665e-43a6-97e5-03f6eeeb1844" width = "600">
 
 ---
 
