@@ -37,23 +37,24 @@ test error: 0.009763 </br>
 ### [Hyper parameter] 3
 Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
 Encoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
+>EPOCHS = 150 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/6190725d-a67e-414d-8eec-0840e57a5a5c" width="400">
 
 ### [Test Error] 3
-test error:  </br>
+test error: 0.009401 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/9898b436-8b16-461a-8a4a-3fbcdb4d2b47" width = "600">
 
 ---
 
-### [Hyper parameter] 3
+### [Hyper parameter] 4
 Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
 Encoder 각 층마다 nn.Dropout(p=0.5) 추가 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/06292e44-6cfc-4da0-aa98-50efd6916b94" width="400">
 
-### [Test Error] 3
+### [Test Error] 4
 test error: 0.009670 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/cf6eccf6-5310-4555-a2fd-11a3949ec790" width = "600">
@@ -68,9 +69,9 @@ test error: 0.009670 </br>
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/b82df396-acd5-4960-b05b-889daa346c66" width="400">
 
 ### [Test Error] 1
-test error:  </br>
+test error: 0.013478 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/507c25cc-2c49-4f7f-8359-20567df7358e" width = "600">
 
 ---
 
