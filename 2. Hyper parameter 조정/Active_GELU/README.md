@@ -46,6 +46,33 @@ test error: 0.009401 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/9898b436-8b16-461a-8a4a-3fbcdb4d2b47" width = "600">
 
+### [Hyper parameter] 3-2
+Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
+Encoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
+>EPOCHS = 150 </br>
+>batchsize = 64 -> 32 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/6190725d-a67e-414d-8eec-0840e57a5a5c" width="400">
+
+### [Test Error] 3-2
+test error:  </br>
+
+<img src = "" width = "600">
+
+### [Hyper parameter] 3-3
+Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
+Encoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
+>EPOCHS = 150 </br>
+>batchsize = 64 -> 32 </br>
+>LEARNING_RATE = 1e-4 -> 5e-4 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/6190725d-a67e-414d-8eec-0840e57a5a5c" width="400">
+
+### [Test Error] 3-3
+test error:  </br>
+
+<img src = "" width = "600">
+
 ---
 
 ### [Hyper parameter] 4
