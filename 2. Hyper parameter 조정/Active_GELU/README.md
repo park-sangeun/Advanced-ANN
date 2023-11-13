@@ -34,16 +34,53 @@ test error: 0.009763 </br>
 
 ---
 
+### [Hyper parameter] 3
+Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
+Encoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/6190725d-a67e-414d-8eec-0840e57a5a5c" width="400">
+
+### [Test Error] 3
+test error:  </br>
+
+<img src = "" width = "600">
+
+---
+
+### [Hyper parameter] 3
+Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
+Encoder 각 층마다 nn.Dropout(p=0.5) 추가 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/06292e44-6cfc-4da0-aa98-50efd6916b94" width="400">
+
+### [Test Error] 3
+test error: 0.009670 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/cf6eccf6-5310-4555-a2fd-11a3949ec790" width = "600">
+
+---
+
 ### [Activation function] GELU 2
 >고정 Layer는 512 - 256 - 128 - 64 - 32 - 16 이다.
 
 ### [Hyper parameter] 1
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/b82df396-acd5-4960-b05b-889daa346c66" width="400">
+
+### [Test Error] 1
+test error:  </br>
+
+<img src = "" width = "600">
+
+---
+
+### [Hyper parameter] 2
 Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
 Encoder 각 층마다 nn.Dropout(p=0.2) 추가 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/fd1784a1-e3ef-4844-8fb3-26e8c0544617" width="400">
 
-### [Test Error] 1
+### [Test Error] 2
 test error: 0.009984 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/58530c8d-8d94-4136-b515-90f9dd2322bd" width = "600">
