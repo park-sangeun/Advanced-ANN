@@ -23,7 +23,7 @@ test error: 0.009614 </br>
 
 ### [Hyper parameter] 2
 Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
-Encoder, Decoder 각 층마다 nn.Dropout(p=0.2) 추가 </br>
+Encoder 각 층마다 nn.Dropout(p=0.2) 추가 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/745e1703-5b53-4324-9fee-1e54bb98a4d4" width="400">
 
