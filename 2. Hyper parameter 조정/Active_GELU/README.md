@@ -55,9 +55,9 @@ Encoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/6190725d-a67e-414d-8eec-0840e57a5a5c" width="400">
 
 ### [Test Error] 3-2
-test error:  </br>
+test error: 0.009583  </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/669991e2-955b-4675-abaa-4fb6ded3d63b" width = "600">
 
 ### [Hyper parameter] 3-3
 Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
@@ -69,9 +69,9 @@ Encoder 각 층마다 nn.Dropout(p=0.3) 추가 </br>
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/6190725d-a67e-414d-8eec-0840e57a5a5c" width="400">
 
 ### [Test Error] 3-3
-test error:  </br>
+test error: 0.009881 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/ec07e635-9aa0-40b1-9998-06432b5129f4" width = "600">
 
 ---
 
