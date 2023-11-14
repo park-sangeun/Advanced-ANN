@@ -79,7 +79,7 @@ test error: 0.009471 </br>
 Encoder, Decoder 각 층마다 nn.BatchNorm1d 추가 </br>
 Encoder, Decoder 각 층마다 nn.Dropout(p=0.5) 추가 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/674bc4c4-976f-4466-a4f6-9596b25f7909" width = "600">
 
 ### [Test Error] 3
 test error: 0.009312 </br>
