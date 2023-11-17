@@ -57,6 +57,18 @@ test error: 0.003726 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/586a9c0a-e93a-42a0-98d0-997a0e64295b" width = "600">
 
+
+### [Structure] 2-3
+512 - 256 - 128 - 32 </br>
+Dropout: 0.2 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/02e03c36-4a38-41bf-92db-2390a369b54e" width="400">
+
+### [Test Error] 2-3
+test error: 0.003720 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/97573788-d610-4891-b2a5-2ad5f1ec3191" width = "600">
+
 ---
 ### [Structure] 3-1
 512 - 128 - 64 - 32 </br>
@@ -78,3 +90,26 @@ Dropout: 0.3 </br>
 test error: 0.003675 </br>
 
 <img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/293c9eda-2151-4566-a439-f69110743bf8" width = "600">
+
+### [Structure] 3-3
+512 - 128 - 64 - 32 </br>
+Dropout: 0.2 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/d6896c46-e4cc-4b43-b6ed-976d1f0c516a" width = "400">
+
+### [Test Error] 3-3
+test error: 0.003817  </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/fc98a5ea-fa79-4656-bd9d-be4a66a2e182" width = "600">
+
+---
+
+### [Structure] 4-1
+256 - 128 - 64 - 32 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/9ae90555-b621-4305-b012-b1a74a72288d" width="400">
+
+### [Test Error] 4-1
+test error: 0.005238 </br>
+
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/ed5effbe-df2c-4606-921e-a31252f0f428" width = "600">
