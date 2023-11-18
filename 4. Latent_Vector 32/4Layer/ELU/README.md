@@ -28,12 +28,12 @@ test error:  </br>
 512 - 256 - 64 - 32 </br>
 Dropout: 0.3 </br>
 
-<img src = "" width="400">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/511aa157-a50a-4ea9-94fa-8ab5f196e4a2" width="400">
 
 ### [Test Error] 1-2
-test error: </br>
+test error: 0.003608 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/07d1f1b3-fc0d-4fda-98e5-7b5e668f2960" width = "600">
 
 ---
 ### [Structure] 2-1
@@ -62,14 +62,15 @@ test error: 0.003575 </br>
 512 - 256 - 128 - 32 </br>
 Dropout: 0.2 </br>
 
-<img src = "" width="400">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/2e62b04b-c269-49ee-a34a-06c02555fec1" width="400">
 
 ### [Test Error] 2-3
-test error: </br>
+test error: 0.003612 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/de05c5b0-17c1-4411-962c-305933c045f5" width = "600">
 
 ---
+
 ### [Structure] 3-1
 512 - 128 - 64 - 32 </br>
 
@@ -107,9 +108,9 @@ test error: 0.003660  </br>
 ### [Structure] 4-1
 256 - 128 - 64 - 32 </br>
 
-<img src = "" width="400">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/84654557-61ae-42e6-8f6b-9ebd94f11565" width="400">
 
 ### [Test Error] 4-1
-test error:  </br>
+test error: 0.004953 </br>
 
-<img src = " width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/57ae0f74-4414-4206-9c78-7869a11f2223" width = "600">
