@@ -17,12 +17,12 @@ optimizer = torch.optim.Adam(model.parameters(), lr=LEARNING_RATE) </br>
 ### [Structure] 1-1
 512 - 256 - 64 - 32 </br>
 
-<img src = "" width="400">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/a46b19f0-8a06-4c60-bf1a-af48218a2ed0" width="400">
 
 ### [Test Error] 1-1
-test error:  </br>
+test error: 0.004182 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/b201abc8-a27c-414a-9b5a-7c8219b1fa6c" width = "600">
 
 ### [Structure] 1-2
 512 - 256 - 64 - 32 </br>
@@ -39,12 +39,12 @@ test error: 0.003608 </br>
 ### [Structure] 2-1
 512 - 256 - 128 - 32 </br>
 
-<img src = "" width = "400">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/a4fb2f9b-8286-4fc2-acb7-5622df10660e" width = "400">
 
 ### [Test Error] 2-1
-test error:  </br>
+test error: 0.003865 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/0ae10f7f-bb40-4a2b-b4b6-d10a720cda4f" width = "600">
 
 ### [Structure] 2-2
 512 - 256 - 128 - 32 </br>
@@ -74,12 +74,12 @@ test error: 0.003612 </br>
 ### [Structure] 3-1
 512 - 128 - 64 - 32 </br>
 
-<img src = "" width = "400">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/8b5f130e-4f17-4690-9eba-b8943c33cadb" width = "400">
 
 ### [Test Error] 3-1
-test error:   </br>
+test error: 0.004432 </br>
 
-<img src = "" width = "600">
+<img src = "https://github.com/park-sangeun/Advanced-ANN/assets/90459890/8ffe9ab6-5c8d-489b-90a7-1aacebd49df6" width = "600">
 
 ### [Structure] 3-2
 512 - 128 - 64 - 32 </br>
